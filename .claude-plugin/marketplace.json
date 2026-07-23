@@ -1,14 +1,14 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "i-cant-draw",
-  "description": "Write great ChatGPT/OpenAI image prompts. Natural language, not keyword soup.",
+  "description": "Write great image prompts for ChatGPT and Gemini. Natural language, not keyword soup.",
   "owner": {
     "name": "Adinath Chaudhari"
   },
   "plugins": [
     {
       "name": "i-cant-draw",
-      "description": "A skill that turns image intent into a strong OpenAI image-generation prompt.",
+      "description": "A skill that turns image intent into a strong ChatGPT or Gemini image-generation prompt.",
       "source": "./",
       "category": "productivity"
     }

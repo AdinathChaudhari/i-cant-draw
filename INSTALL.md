@@ -44,15 +44,17 @@ To apply the prompting rules without typing `/i-cant-draw` first, add to `~/.cla
 ```markdown
 ## Image generation
 
-When generating or requesting any image via ChatGPT / OpenAI, follow the `i-cant-draw` skill:
-natural-language description, subject-to-mood ordering, quoted literal text, no Midjourney flags.
+When generating or requesting any image via ChatGPT (OpenAI) or Gemini, follow the `i-cant-draw`
+skill: natural-language description, subject-to-mood ordering, quoted literal text, the right
+per-engine config, and no Midjourney flags.
 ```
 
 ## Use it anywhere (not just Claude Code)
 
 `skills/i-cant-draw/SKILL.md` is plain markdown. Paste it into any assistant's system prompt,
-a custom GPT's instructions, or a `.cursorrules` file. The skill is model-agnostic — it teaches
-*how to prompt an OpenAI image model*, so any model that writes the prompt can use it.
+a Custom GPT's instructions, a Gemini Gem, or a `.cursorrules` file. The skill is model-agnostic —
+it teaches *how to prompt an image model* (ChatGPT or Gemini), so any model that writes the prompt
+can use it.
 
 ## Troubleshooting
 

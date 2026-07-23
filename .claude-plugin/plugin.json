@@ -1,4 +1,4 @@
 {
   "name": "i-cant-draw",
-  "description": "Teach the model to write great OpenAI/ChatGPT image-generation prompts: natural language over keyword soup, the subject-to-mood formula, correct in-image text, and iterative edits."
+  "description": "Teach the model to write great image-generation prompts for ChatGPT (OpenAI GPT Image) and Google Gemini (Nano Banana): natural language over keyword soup, the subject-to-mood formula, correct in-image text, per-engine config, and iterative edits."
 }
