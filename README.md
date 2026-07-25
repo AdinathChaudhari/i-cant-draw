@@ -1,5 +1,6 @@
 <h1 align="center">🖍️ i-cant-draw</h1>
 <p align="center"><strong>Pick a model, describe the scene, get a ready-to-paste image prompt. No art skills needed.</strong></p>
+<p align="center"><em>You pick the engine; the skill writes the prompt and its config — it never renders the image.</em></p>
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/github/license/AdinathChaudhari/i-cant-draw?style=flat" alt="License"></a>
 </p>
