@@ -1,2 +1,5 @@
 .DS_Store
 *.log
+
+# Private About-image prompt (personal speciality — not published)
+docs/media/ABOUT-IMAGE.md
