@@ -1,3 +1,22 @@
+<!--
+GitHub metadata — authored here, applied in repo Settings (NOT rendered on the page):
+
+About:  Turn a rough idea into a ready-to-paste image-generation prompt for
+        ChatGPT (GPT Image) or Gemini (Nano Banana) — a Claude Code skill
+        that writes the prompt, not the image.
+
+Topics (ranked): prompt-engineering, image-prompts, image-generation,
+                 claude-code, claude-skill, agent-skill, anthropic,
+                 gpt-image, nano-banana, openai, gemini, text-to-image,
+                 ai-art, prompt-builder, creative-tools, markdown
+
+Social preview: docs/media/hero.png is the 1536x1024 source; the card is
+  derived, never committed —
+    python Tools/image_compress.py docs/media/hero.png 1MB --glass
+  then upload docs/media/hero-glass.jpg in Settings > Social preview.
+  See GitHub/docs/image-processing.md.
+-->
+
 <h1 align="center">🖍️ i-cant-draw</h1>
 <p align="center"><strong>Pick a model, describe the scene, get a ready-to-paste image prompt. No art skills needed.</strong></p>
 <p align="center"><em>You pick the engine; the skill writes the prompt and its config — it never renders the image.</em></p>
