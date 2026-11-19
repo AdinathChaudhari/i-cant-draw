@@ -25,7 +25,7 @@ Social preview: docs/media/hero.png is the 1536x1024 source; the card is
 </p>
 
 <p align="center">
-  <img src="docs/media/hero.png" alt="i-cant-draw" width="820">
+  <img src="docs/media/hero-rounded.png" alt="i-cant-draw" width="820">
 </p>
 
 `i-cant-draw` is a skill that turns a rough image idea into a prompt that **ChatGPT (OpenAI GPT Image)** or **Google Gemini (Nano Banana)** actually renders well. You choose the engine; the skill builds the prompt — and that engine's config — from a self-contained, engine-specific guide. It does **not** generate the image; it generates the *prompt* you paste into the tool.
